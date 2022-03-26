@@ -1,0 +1,160 @@
+body{
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+}
+h1{
+  margin:50px auto 0 auto;
+font-family: /*'Tangerine',*/'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+ padding-bottom: 10px;
+}
+.topp{
+  font-size: 1.5rem;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a:hover{
+  color: white;
+}
+.intro{
+width: 30%;
+margin: auto;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  text-decoration: none;
+}
+h3:hover{
+  font-size: 30px;
+}
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+.btn{
+  border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    background: #11cdd4;
+}
+.btn:hover {
+  background: grey;
+   text-decoration: none;
+}
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 10px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.spa{
+  text-decoration:underline;
+}
+.bottom-cloud{
+position:absolute;
+left:250px;
+bottom:300px;
+}
+.top-cloud{
+position:absolute;
+right:200px;
+top:40px;
+}
+.add{
+  background-color: teal;
+  height: 200px;
+  width: 200px;
+  border-radius:100%;
+}
+p{
+  line-height: 2;
+}
+.img0{
+  width:170px;
+}
+.img4{
+  width:100px;
+  height:100px;
+  margin: 10px 0;
+}
+#last-p{
+  font-size: 0.75rem;
+  padding: 15 px 0;
+  color: white;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.paragraph{
+ margin: 40px auto 60px;
+}
+.img1{
+  width: 26%;
+  float: left;
+  margin-right: 30px;
+}
+.img2{
+  width: 26%;
+  float: right;
+  margin-left: 30px;
+}
+
+.paragrap{
+  width: 40%;
+  margin: 40px auto 60px;
+ }
+.additional-div-1{
+  background-color:#e4f9f5;
+  padding: 28px 0 0;
+  height: 100px;
+  position: sticky;
+
+}
+.img01{
+  width: 60px;
+  height: 60px;
+  position: relative;
+  right: 410px;
+  top: 10px;
+}
+.additional-div-2{
+  position: relative;
+  left:400px;
+  bottom: 30px;
+  font-size: small;
+  font-family: 'Montserrat', sans-serif;
+}
+.header-link:hover{
+  color: black;
+}
+.header-link:active{
+  text-decoration: underline;
+  color: red;
+}
